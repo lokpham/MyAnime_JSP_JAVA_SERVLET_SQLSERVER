@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/*
+	ct:color test
+
+*/
+:root {
+	--primary: #2d2d2d;
+	--secondary: #000;
+	--ct_1:#a7a7a7 ;
+	--ct_2:#cccccc;
+	--ct_white:white;
+	--ct_black:black;
+	--ct_red:rgb(248, 44, 7);
+}

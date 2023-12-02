@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+.bodycontent {
+	min-height: calc(100vh - 65px);
+	padding: 2rem clamp(4rem,10vw,15rem);
+	background-color: var(--secondary);
+	box-sizing: border-box;
+}
